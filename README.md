@@ -100,18 +100,22 @@ The project follows these steps:
 
 ### Attack Distribution Analysis
 ![Attack Types Distribution](./images/1.png)
+
 *Distribution of different attack types in the dataset showing DDoS, Normal traffic, Probe attacks, DoS, BFA and U2R*
 
 ### Feature Correlation Matrix
 ![Feature Correlation Heatmap](./images/2.png)
+
 *Correlation matrix showing relationships between key network traffic features*
 
 ### Model Performance Metrics
 ![Model Performance Comparison](./images/3.png)
+
 *Comparison of accuracy, precision, recall and F1 scores across different models*
 
 ### Feature Importance Analysis
 ![Feature Importance](./images/4.png)
+
 *Top features contributing to normal traffic classification*
 
 ---
