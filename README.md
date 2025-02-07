@@ -2,7 +2,8 @@
 
 This repository presents an advanced approach to network intrusion and ransomware detection, tailored to address the growing sophistication of cyberattacks targeting SecureTech Solutions Inc.'s clients. Leveraging machine learning techniques and exploratory data analysis, this project delivers actionable insights to enhance cybersecurity defenses, reduce false alarms, and provide explainable predictions to cybersecurity analysts.
 
-![image](https://github.com/user-attachments/assets/eaeff26e-860a-4f3f-82b7-c8bd35179fb6)
+![image](https://github.com/user-attachments/assets/85a21331-f51e-4a3d-a393-2e03c3dda0bf)
+
 
 ---
 
