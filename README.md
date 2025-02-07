@@ -96,7 +96,25 @@ The project follows these steps:
    - Minimising false positives and negatives to enhance reliability.
 
 ---
+## Project Visualizations
 
+### Attack Distribution Analysis
+![Attack Types Distribution](./1.png)
+*Distribution of different attack types in the dataset showing DDoS, Normal traffic, Probe attacks, DoS, BFA and U2R*
+
+### Feature Correlation Matrix
+![Feature Correlation Heatmap](./2.png)
+*Correlation matrix showing relationships between key network traffic features*
+
+### Model Performance Metrics
+![Model Performance Comparison](./3.png)
+*Comparison of accuracy, precision, recall and F1 scores across different models*
+
+### Feature Importance Analysis
+![Feature Importance](./4.png)
+*Top features contributing to normal traffic classification*
+
+---
 ## 8. Results
 Key findings include:
 - **High Precision**: The model effectively identifies malicious activities with minimal false alarms.
